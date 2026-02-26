@@ -29,4 +29,4 @@ python manage.py runserver
 - [PUT] http://127.0.0.1:8000/api/tasks/:id/update/ - update task status
 - [GET] http://127.0.0.1:8000/api/tasks/completed/ - task report
 
-Postman collection attached with mail and git repository
+Postman collection attached with mail and the git repository
