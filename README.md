@@ -5,7 +5,7 @@ python -m venv venv
 venv/scripts/activate
 
 ## Clone git repository
-git clone https://github.com/AKSHAY-KR99/Task-Management-System.git
+git clone https://github.com/Dheeraj607/Task-Management.git
 
 ## Install requirements
 pip install -r requirements.txt
